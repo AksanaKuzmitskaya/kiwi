@@ -6,3 +6,13 @@
  * Global CSS.
  */
 
+.nav a {
+	color: #20B2AA;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 16px 12px;
+	text-transform: uppercase;
+
+
+
+}
