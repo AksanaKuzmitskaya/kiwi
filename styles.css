@@ -35,3 +35,12 @@
   font-size: 20px;
   color: #404440;
 }
+
+.nav .navbar-nav .active a:hover {
+	color: #ffbcf0;
+	/*background: #404440;*/
+	background-color:rgba(76,79,75, 0.5);
+}
+
+
+
