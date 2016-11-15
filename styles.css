@@ -7,7 +7,7 @@
  */
 
 .nav a {
-	color: #5a5a5a;
+	color: #ffffff;
 	font-size: 13px;
 	font-weight: bold;
 	padding: 16px 12px;
@@ -24,4 +24,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #404440;
 }
