@@ -36,7 +36,7 @@
   color: #404440;
 }
 
-.nav .navbar-nav .active a:hover {
+.nav .navbar-nav  a:hover {
   color: #ffbcf0;
   background-color:rgba(76,79,75, 0.5);
 }
