@@ -12,6 +12,7 @@
   font-weight: bold;
   padding: 16px 12px;
   text-transform: uppercase;
+  background-color:rgba(246,212,240, 0.5);
 }
 
 .nav li {
@@ -37,11 +38,6 @@
 }
 
 .nav .navbar-nav  a:hover {
-  color: #ffbcf0;
-  background-color:rgba(76,79,75, 0.5);
-}
-
-.nav .navbar-nav  a {
   color: #ffbcf0;
   background-color:rgba(76,79,75, 0.5);
 }
