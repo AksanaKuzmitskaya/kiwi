@@ -46,6 +46,10 @@
   text-align:center;
 }
 
-
+button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
 
 
