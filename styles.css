@@ -51,3 +51,7 @@
   border-color: white;
   background-color: white;
 }
+
+.navbar-brand {
+  color:#D0D0D0  !important;
+}
