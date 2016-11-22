@@ -46,4 +46,14 @@
   text-align: center;
 }
 
+input.form-control{
+	background-color: rgba(174,218,188, 0.5);
+	color: rgba(0,0,0,0);
+}
+
+.form-control::-webkit-input-placeholder {
+	color:#fff;
+}
+
+
 
