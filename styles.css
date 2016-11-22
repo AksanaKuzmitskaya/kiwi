@@ -53,5 +53,6 @@
 }
 
 .navbar-brand {
-  color:#D0D0D0  !important;
+  color:#D0D0D0 !important;
+  background-color:rgba(168,168,168, 0.5) !important;
 }
