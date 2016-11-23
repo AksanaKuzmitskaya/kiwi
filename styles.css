@@ -46,13 +46,33 @@
   text-align: center;
 }
 
-input.form-control{
+.form-control{
 	background-color: rgba(174,218,188, 0.5);
-	color: rgba(0,0,0,0);
+	color:  #fff;
+
+}
+
+.form-control:focus {
+  border-color:rgba(76,79,75, 0.5);
+  background-color:rgba(76,79,75, 0.5);
+}
+
+.form-control:hover {
+  background-color:rgba(76,79,75, 0.5);
 }
 
 .form-control::-webkit-input-placeholder {
 	color:#fff;
+}
+
+.form-control:focus::-webkit-input-placeholder { 
+  color:transparent; 
+}
+
+.btn-default:hover{
+  color:#ffbcf0;
+  background-color:rgba(76,79,75, 0.5);
+
 }
 
 .icon-bar {
