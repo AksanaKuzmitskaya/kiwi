@@ -19,12 +19,11 @@
   display: inline;
 }
 
-
-.jumbotron .quotes {
+.quotes .jumbotron {
   background-image: url("../images/fruits+.jpg");
 }
 
-.jumbotron .main {
+.main .jumbotron {
   background-image: url("../images/kiwi+.jpg");
 }
 
@@ -54,10 +53,9 @@
   text-align: center;
 }
 
-.form-control{
+.form-control {
 	background-color: rgba(174,218,188, 0.5);
 	color:  #fff;
-
 }
 
 .form-control:focus {
