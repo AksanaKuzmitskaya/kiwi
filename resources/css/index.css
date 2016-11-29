@@ -19,8 +19,16 @@
   display: inline;
 }
 
-.jumbotron {
+.
+.jumbotron .quotes {
+  background-image: url("../images/fruits+.jpg");
+}
+
+.jumbotron .main {
   background-image: url("../images/kiwi+.jpg");
+}
+
+.jumbotron {
   height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
