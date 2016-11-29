@@ -21,13 +21,9 @@
 
 .quotes .jumbotron {
   background-image: url("../images/fruits+.jpg");
-  height: 650px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position:center;
 }
 
-.main .jumbotron {
+.jumbotron .main {
   background-image: url("../images/kiwi+.jpg");
 }
 
