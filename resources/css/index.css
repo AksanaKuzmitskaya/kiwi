@@ -28,6 +28,7 @@
 }
 
 .jumbotron {
+  background-image: url("../images/kiwi+.jpg");
   height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -54,8 +55,8 @@
 }
 
 .form-control {
-	background-color: rgba(174,218,188, 0.5);
-	color:  #fff;
+  background-color: rgba(174,218,188, 0.5);
+  color:  #fff;
 }
 
 .form-control:focus {
@@ -68,7 +69,7 @@
 }
 
 .form-control::-webkit-input-placeholder {
-	color:#fff;
+  color:#fff;
 }
 
 .form-control:focus::-webkit-input-placeholder { 
