@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="resources/css/index.css">	
+		<script>
+			$.get("nav.html", function(data){
+    				$("#nav-placeholder").replaceWith(data);
+			});
+		</script>
+	</head>
+
+	<body>
+		<div id="nav-placeholder"></div>		
+		<div class="jumbotron contact">
+			<div class="container">
+			</div>
+		</div>
+		<div id="bottom">
+			Copyright &#169; Aksana Kuzmitskaya &#38 Ksenia Saenko
+		</div>
+	</body>
+</html>
