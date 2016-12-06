@@ -27,6 +27,10 @@
   background-position:center;
 }
 
+.gallery {
+  background-image: url("../images/vegetables+.jpg");
+}
+
 .quotes {
   background-image: url("../images/fruits+.jpg");
 }
@@ -36,7 +40,7 @@
 }
 
 .comments {
-  background-image: url("../images/fruits+.jpg");
+  background-image: url("../images/exoticfruits.jpg");
 }
 
 .jumbotron .container {
