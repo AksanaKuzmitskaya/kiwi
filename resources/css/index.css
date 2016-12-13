@@ -43,6 +43,10 @@
   background-image: url("../images/newfruits+.jpg");
 }
 
+.about {
+  background-image: url("../images/cherries.jpg");
+}
+
 .jumbotron .container {
   position: relative;
   top:100px;
